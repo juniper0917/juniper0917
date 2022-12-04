@@ -1,4 +1,3 @@
-<div><h1>BOJ</h1></div>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yungs0917)](https://solved.ac/yungs0917/)
 
