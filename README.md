@@ -1,7 +1,6 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yungs0917)](https://solved.ac/yungs0917/)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juniper0917&show_icons=true&theme=tokyonight)
-* * *
 
 <div><h1>📚 STACKS</h1></div>
 
@@ -20,8 +19,6 @@
   <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
   <br>
 </div>
-
-* * *
 
 <!-- <div><h1>PROJECTS</h1></div>
 <br>
